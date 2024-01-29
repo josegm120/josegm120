@@ -1,4 +1,4 @@
-<p align="center"># ¡Hola, mundo! 🌍<br><br>Soy Jose Gómez Morata, Web Developer<br><br>## Contáctame 📫<br><br>Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme en mi correo o mi perfil de linkedin.<br><br>¡Gracias por visitar mi perfil! 😊</p>
+<p align="center"># ¡Hola, mundo! 🌍<br><br>Soy Jose Gómez Morata, Web Developer<br><br>## Contáctame 📫<br><br>Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme en gomezmorata2@gmail.com o mi perfil de linkedin.<br><br>¡Gracias por visitar mi perfil! 😊</p>
 
 ###
 
