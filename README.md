@@ -15,7 +15,7 @@ Actualmente trabajo como **Salesforce Developer en Accenture**, desarrollando so
 
 ## 📫 Contáctame  
 📧 gomezmorata2@gmail.com
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/josegomezmorata))  
+🔗 [LinkedIn](https://www.linkedin.com/in/josegomezmorata)  
 
 ---
 
